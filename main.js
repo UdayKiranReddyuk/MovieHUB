@@ -7,7 +7,7 @@ var swiper = new Swiper(".popular-content", {
     delay: 5500,
     disableOnInteraction: false,
   },
-  pagination: {
+  pagination: { 
     el: ".swiper-pagination",
     clickable: true,
   },
