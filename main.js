@@ -1,6 +1,6 @@
 // Swiper
 
-var swiper = new Swiper(".popular-content", { 
+var swiper = new Swiper(".popular-content", {
   slidesPerView: 1,
   spaceBetween: 10,
   autoplay: {
