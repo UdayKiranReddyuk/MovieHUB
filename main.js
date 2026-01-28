@@ -5,7 +5,7 @@ var swiper = new Swiper(".popular-content", {
   spaceBetween: 10,
   autoplay: {
     delay: 5500,
-    disableOnInteraction: false,
+    disableOnInteraction: false, 
   },
   pagination: {
     el: ".swiper-pagination",
