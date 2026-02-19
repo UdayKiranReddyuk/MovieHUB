@@ -1,6 +1,6 @@
 # MovieHUB
 This is a movie website that displays all the popular Hollywood movies   
-It is a responsive website, too 
+It is a responsive website, too  
 
 # Technologies used
 This project is built using:- 
